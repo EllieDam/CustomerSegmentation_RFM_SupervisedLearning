@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+squarify 
+datetime
+
+plotly
+import_ipynb
+sklearn
